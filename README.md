@@ -36,4 +36,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ---
 
- Projeto desenvolvido no curso da [Rockeseat](https://www.rocketseat.com.br/)
+ Projeto desenvolvido no curso da [Rocketseat](https://www.rocketseat.com.br/)
